@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: dodgerblue;
+    display: flex;
+    justify-content: center;
+   padding-top: 20px;
+}
+.para{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+   padding-top: 40px;
+}
